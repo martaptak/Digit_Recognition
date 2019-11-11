@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Digit Recognition/task/build/
+/Digit Recognition/task/build/classes/java/main/
+/Digit Recognition/task/build/classes/java/test/
